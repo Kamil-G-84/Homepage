@@ -1,0 +1,38 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: "Poppins", sans-serif;
+    max-width: 1000px;
+    color: #111011;
+    background: #9ddc4b;
+    margin: auto;
+}
+
+.blackBackground {
+    background: #111011;
+}
+
+.button {
+    color: #111011;
+    margin: 20px 0;
+}
+
+.dark {
+    color: #111011;
+    background: #111011;
+}
+
+.footer {
+    font-size: 14px;
+    text-align: center;
+    background-color: #09092d;
+    color: #f5f3f3;
+}

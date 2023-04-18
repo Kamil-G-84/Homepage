@@ -1,0 +1,12 @@
+.header__title {
+    color: #111011;
+    background: #f7f7f7;
+    text-align: center;
+    padding: 7px 0 7px 0;
+}
+
+.header__subTitle {
+    font-size: 10px;
+    text-align: right;
+    margin-top: -16px;
+}

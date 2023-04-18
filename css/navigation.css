@@ -1,0 +1,28 @@
+.navigation {
+    border: 1px none #111011;
+    padding: 10px 10px 20px 0;
+    text-align: center;
+    max-width: max-content;
+    margin: 0 auto -20px auto;
+}
+
+.navigation__link {
+    background-color: #060607;
+    color: #f5f3f3;
+    padding: 9px;
+    border-style: groove;
+    margin: 0 0 10px 0;
+    list-style-type: none;
+}
+
+.navigation__link:focus {
+    outline: 4px double #d02020;
+}
+
+.navigation__link:hover {
+    color: #d46d12;
+}
+
+.navigation__link:active {
+    color: #d46d12;
+}
