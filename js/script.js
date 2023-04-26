@@ -16,7 +16,8 @@
     const buttonChangeColor = document.querySelector(".js-buttonChangeColor");
     buttonChangeColor.addEventListener("click", onChangeBackgroundClick);
    
+    welcome();
   }
 
-  welcome();
+  init();
 };
