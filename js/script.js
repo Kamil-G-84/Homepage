@@ -4,7 +4,6 @@
   }
 
   const onChangeBackgroundClick = () => {
-
     const body = document.body;
     const themeName = document.querySelector(".js-changeName");
 
